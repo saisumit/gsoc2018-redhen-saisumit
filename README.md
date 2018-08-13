@@ -46,10 +46,7 @@ Speaker diarization is a task of identifying the speaker and indexing those spea
 Aalto is used for displaying the video results but Lium Results are also avaiable in text format which can be accessed as described in the Results. 
 
 ```
-
-
  ./audio_runner.sh  -f speaker_diarization
-
 ```
 
 References : 
@@ -78,8 +75,6 @@ Scene identification is task of identifying the scene of the media. Following ca
 
 
 ```
-#!bash
-
  ./audio_runner.sh  -f scene_identification
 
 ```
@@ -101,8 +96,6 @@ References:
  
 
 ```
-
-
  ./audio_runner.sh 
 
 ```
