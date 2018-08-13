@@ -27,7 +27,6 @@ Speech identification uses the problem of identifying the speaking regions in th
 
 
 ```
-#!bash
 
  ./audio_runner.sh -f sound_event_detection
 
@@ -47,7 +46,7 @@ Speaker diarization is a task of identifying the speaker and indexing those spea
 Aalto is used for displaying the video results but Lium Results are also avaiable in text format which can be accessed as described in the Results. 
 
 ```
-#!bash
+
 
  ./audio_runner.sh  -f speaker_diarization
 
@@ -102,7 +101,7 @@ References:
  
 
 ```
-#!bash
+
 
  ./audio_runner.sh 
 
