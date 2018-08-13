@@ -1,0 +1,56 @@
+;; cluster S0 
+input 1 45 108 U U U S0
+;; cluster S1 
+input 1 192 196 U U U S1
+;; cluster S10 
+input 1 2804 486 U U U S10
+;; cluster S11 
+input 1 3303 359 U U U S11
+;; cluster S12 
+input 1 3853 222 U U U S12
+;; cluster S13 
+input 1 4083 195 U U U S13
+;; cluster S14 
+input 1 4613 70 U U U S14
+;; cluster S15 
+input 1 4900 44 U U U S15
+;; cluster S16 
+input 1 5195 86 U U U S16
+;; cluster S17 
+input 1 5395 233 U U U S17
+;; cluster S18 
+input 1 5657 118 U U U S18
+;; cluster S19 
+input 1 5966 108 U U U S19
+;; cluster S2 
+input 1 426 289 U U U S2
+;; cluster S20 
+input 1 6113 978 U U U S20
+;; cluster S22 
+input 1 7178 475 U U U S22
+;; cluster S23 
+input 1 7942 23 U U U S23
+;; cluster S24 
+input 1 7979 141 U U U S24
+;; cluster S25 
+input 1 8128 406 U U U S25
+;; cluster S26 
+input 1 8537 32 U U U S26
+;; cluster S27 
+input 1 8574 345 U U U S27
+;; cluster S28 
+input 1 8987 12 U U U S28
+;; cluster S3 
+input 1 721 145 U U U S3
+;; cluster S4 
+input 1 874 525 U U U S4
+;; cluster S5 
+input 1 1439 475 U U U S5
+;; cluster S6 
+input 1 1938 173 U U U S6
+;; cluster S7 
+input 1 2174 154 U U U S7
+;; cluster S8 
+input 1 2651 81 U U U S8
+;; cluster S9 
+input 1 2736 16 U U U S9

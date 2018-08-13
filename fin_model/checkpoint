@@ -1,0 +1,2 @@
+model_checkpoint_path: "/output/fin_model/sai_audio.tfl"
+all_model_checkpoint_paths: "/output/fin_model/sai_audio.tfl"

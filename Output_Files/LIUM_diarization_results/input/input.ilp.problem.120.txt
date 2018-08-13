@@ -1,0 +1,29 @@
+Minimize
+problem : elementCenter_S0_S0 + elementCenter_S1_S1 + elementCenter_S15_S15 + elementCenter_S23_S23 + 0.9261302360533 elementCenter_S0_S23 + 0.9261302360533 elementCenter_S23_S0
+Subject To
+S0: elementCenter_S0_S0 + elementCenter_S0_S15 + elementCenter_S0_S23 = 1 
+S1: elementCenter_S1_S1 + elementCenter_S1_S15 = 1 
+S2: elementCenter_S15_S15 + elementCenter_S15_S0 + elementCenter_S15_S1 + elementCenter_S15_S23 = 1 
+S3: elementCenter_S23_S23 + elementCenter_S23_S0 + elementCenter_S23_S15 = 1 
+elementCenter_S0_S15 - elementCenter_S15_S15 <= 0
+elementCenter_S0_S23 - elementCenter_S23_S23 <= 0
+elementCenter_S1_S15 - elementCenter_S15_S15 <= 0
+elementCenter_S15_S0 - elementCenter_S0_S0 <= 0
+elementCenter_S15_S1 - elementCenter_S1_S1 <= 0
+elementCenter_S15_S23 - elementCenter_S23_S23 <= 0
+elementCenter_S23_S0 - elementCenter_S0_S0 <= 0
+elementCenter_S23_S15 - elementCenter_S15_S15 <= 0
+Binary
+elementCenter_S0_S0
+elementCenter_S0_S15
+elementCenter_S0_S23
+elementCenter_S1_S1
+elementCenter_S1_S15
+elementCenter_S15_S0
+elementCenter_S15_S1
+elementCenter_S15_S15
+elementCenter_S15_S23
+elementCenter_S23_S0
+elementCenter_S23_S15
+elementCenter_S23_S23
+End

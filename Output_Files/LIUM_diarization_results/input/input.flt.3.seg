@@ -1,0 +1,19 @@
+;; cluster S0 
+input 1 2804 486 U U U S0
+input 1 3303 359 U U U S0
+input 1 3853 222 U U U S0
+input 1 4083 195 U U U S0
+input 1 5395 233 U U U S0
+input 1 7178 475 U U U S0
+;; cluster S1 
+input 1 192 196 U U U S1
+input 1 426 289 U U U S1
+input 1 874 525 U U U S1
+input 1 1439 475 U U U S1
+input 1 1938 173 U U U S1
+input 1 2174 154 U U U S1
+;; cluster S15 
+input 1 6113 978 U U U S15
+;; cluster S23 
+input 1 8328 206 U U U S23
+input 1 8733 186 U U U S23

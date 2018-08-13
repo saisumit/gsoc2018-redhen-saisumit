@@ -1,0 +1,60 @@
+Problem:    
+Rows:       12
+Columns:    12 (12 integer, 12 binary)
+Non-zeros:  28
+Status:     INTEGER OPTIMAL
+Objective:  problem = 1 (MINimum)
+
+   No.   Row name        Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 S0                          1             1             = 
+     2 S1                          1             1             = 
+     3 S2                          1             1             = 
+     4 S3                          1             1             = 
+     5 r.8                         0                           0 
+     6 r.9                         0                           0 
+     7 r.10                        0                           0 
+     8 r.11                        0                           0 
+     9 r.12                        0                           0 
+    10 r.13                        0                           0 
+    11 r.14                        0                           0 
+    12 r.15                        0                           0 
+
+   No. Column name       Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 elementCenter_S0_S0
+                    *              0             0             1 
+     2 elementCenter_S1_S1
+                    *              0             0             1 
+     3 elementCenter_S15_S15
+                    *              1             0             1 
+     4 elementCenter_S23_S23
+                    *              0             0             1 
+     5 elementCenter_S0_S23
+                    *              0             0             1 
+     6 elementCenter_S23_S0
+                    *              0             0             1 
+     7 elementCenter_S0_S15
+                    *              1             0             1 
+     8 elementCenter_S1_S15
+                    *              1             0             1 
+     9 elementCenter_S15_S0
+                    *              0             0             1 
+    10 elementCenter_S15_S1
+                    *              0             0             1 
+    11 elementCenter_S15_S23
+                    *              0             0             1 
+    12 elementCenter_S23_S15
+                    *              1             0             1 
+
+Integer feasibility conditions:
+
+KKT.PE: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.PB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output

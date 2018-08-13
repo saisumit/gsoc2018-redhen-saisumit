@@ -1,0 +1,10 @@
+audio=input.wav lna=a_1 start-time=0.576 end-time=23.396 speaker=speaker_1
+audio=input.wav lna=a_2 start-time=23.396 end-time=28.224 speaker=speaker_2
+audio=input.wav lna=a_3 start-time=28.224 end-time=36.596 speaker=speaker_3
+audio=input.wav lna=a_4 start-time=36.596 end-time=38.384 speaker=speaker_2
+audio=input.wav lna=a_5 start-time=38.384 end-time=43.32 speaker=speaker_3
+audio=input.wav lna=a_6 start-time=45.6 end-time=53.852 speaker=speaker_2
+audio=input.wav lna=a_7 start-time=53.852 end-time=55.832 speaker=speaker_3
+audio=input.wav lna=a_8 start-time=55.832 end-time=59.632 speaker=speaker_2
+audio=input.wav lna=a_9 start-time=59.632 end-time=76.444 speaker=speaker_3
+audio=input.wav lna=a_10 start-time=76.444 end-time=89.992 speaker=speaker_2
