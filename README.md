@@ -1,5 +1,13 @@
 # gsoc2018-redhen-saisumit
 
+Mentors:  
+* Mehul Bhatt ( http://www.mehulbhatt.org/ ) 
+* Jakob Suchan ( https://cosy.informatik.uni-bremen.de/staff/jakob-suchan.html )   
+* Shri Krishna  
+ 
+Organisation : Redhen Labs ( http://www.redhenlab.org/ )
+
+
 # Audio Analysis of Egocentric and Third-person videos using Red-Hen Labs : #
 
 
