@@ -3,7 +3,7 @@
 Mentors:  
 * Mehul Bhatt ( http://www.mehulbhatt.org/ ) 
 * Jakob Suchan ( https://cosy.informatik.uni-bremen.de/staff/jakob-suchan.html )   
-* Shri Krishna  
+* Sri Krishna ( https://skrish13.github.io ) 
  
 Organisation : Redhen Labs ( http://www.redhenlab.org/ )
 
